@@ -6,31 +6,39 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(1).pdf" style="text-decoration:none;">Non-Equilibrium Social
+Science and Policy: Introduction and Essays on New and Changing Paradigms in Socio-Economic Thinking</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(2).pdf" style="text-decoration:none;">SupervisedWithin-Document Event Coreference using Information Propagation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(2).pdf" style="text-decoration:none;">Open Skies:
+The National Radio Astronomy Observatory and Its Impact on US Radio Astronomy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(3).pdf" style="text-decoration:none;">Nominal Reference, Temporal
-Constitution and Quantification in Event Semantics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(4).pdf" style="text-decoration:none;">Event Detection via Recurrent Neural Network and Argument Prediction</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(5).pdf" style="text-decoration:none;">Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse- evel Information</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(6).pdf" style="text-decoration:none;">F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(7).pdf" style="text-decoration:none;">A Unified Model for Financial Event Classification, Detection and Summarization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(3).pdf" style="text-decoration:none;">Anton Pannekoek:
+Ways of Viewing Science and Society</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(4).pdf" style="text-decoration:none;">Asymmetric
+Planetary Nebulae VII</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(5).pdf" style="text-decoration:none;">Cosmic Plasmas
+and Electromagnetic Phenomena</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(6).pdf" style="text-decoration:none;">Imaging and engineering optical localized modes at the nanoscale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(7).pdf" style="text-decoration:none;">An Interdisciplinary Approach to the Human Mind</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(8).pdf" style="text-decoration:none;"> SupervisedWithin-Document Event Coreference using Information Propagation </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(9).pdf" style="text-decoration:none;">A Linguistic Resource for Discovering Event Structures and Resolving Event Coreference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(8).pdf" style="text-decoration:none;"> Melting Hadrons, Boiling Quarks – From Hagedorn Temperature to Ultra-Relativistic Heavy-Ion Collisions at CERN </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(9).pdf" style="text-decoration:none;">Interferometry
+and Synthesis in Radio Astronomy</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(10).pdf" style="text-decoration:none;">Extracting Entities and Events as a Single Task Using a Transition-Based Neural Model</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(11).pdf" style="text-decoration:none;">Using a sledgehammer to crack a nut?
-Lexical diversity and event coreference resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(12).pdf" style="text-decoration:none;">CASIE: Extracting Cybersecurity Event Information from Text</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(13).pdf" style="text-decoration:none;">Event Extraction Using Distant Supervision</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(10).pdf" style="text-decoration:none;">The Origin and the Evolution
+of Firms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(11).pdf" style="text-decoration:none;">Gamma-ray Bursts:
+15 Years of GRB Afterglows Progenitors, Environments and Host Galaxies from the Nearby to the Early Universe</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(12).pdf" style="text-decoration:none;">The Cellular Automaton
+Interpretation of Quantum Mechanics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(13).pdf" style="text-decoration:none;">Coronal Magnetometry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(14).pdf" style="text-decoration:none;">SinoCoreferencer: An End-to-End Chinese Event Coreference Resolver</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(14).pdf" style="text-decoration:none;">Radio Galaxies at TeV Energies</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(15).pdf" style="text-decoration:none;">Word sense disambiguation for event trigger word detection in biomedicine</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(15).pdf" style="text-decoration:none;">The Role of Halo
+Substructure in Gamma-Ray Dark Matter Searches</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(16).pdf" style="text-decoration:none;">Wide coverage biomedical event extraction using multiple partially overlapping corpora</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Astronomy-Books/blob/master/ast(16).pdf" style="text-decoration:none;">Quasars At All Cosmic Epochs</a></li>
 
 </ul>
